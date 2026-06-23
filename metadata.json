@@ -1,0 +1,8 @@
+{
+  "name": "วิทยาลัยอาชีวศึกษาเลย (Loei Vocational College Portal)",
+  "description": "เว็บไซต์อย่างเป็นทางการและระบบจัดการสารสนเทศภายในสำหรับนักศึกษาและอาจารย์ วิทยาลัยอาชีวศึกษาเลย (จำลองโครงสร้างจาก loeitech.ac.th ข้อมูลข่าวสาร ประชาสัมพันธ์ ประวัติ แผนกวิชา และระบบช่วยสอน)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
